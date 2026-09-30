@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega-nodejs-emanuel-cabral",
+  "version": "1.0.0",
+  "description": "Pre-Entrega de Proyecto de Node JS — Talento Tech",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "jsonplaceholder", "cli"],
+  "author": "Emanuel Cabral",
+  "license": "ISC"
+}
